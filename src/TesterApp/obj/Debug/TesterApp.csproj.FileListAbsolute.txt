@@ -1,0 +1,8 @@
+C:\Dev\Tools\TesterApp\TesterApp\bin\Debug\TesterApp.exe.config
+C:\Dev\Tools\TesterApp\TesterApp\bin\Debug\TesterApp.exe
+C:\Dev\Tools\TesterApp\TesterApp\bin\Debug\TesterApp.pdb
+C:\Dev\Tools\TesterApp\TesterApp\obj\Debug\TesterApp.csprojResolveAssemblyReference.cache
+C:\Dev\Tools\TesterApp\TesterApp\obj\Debug\TesterApp.Properties.Resources.resources
+C:\Dev\Tools\TesterApp\TesterApp\obj\Debug\TesterApp.csproj.GenerateResource.Cache
+C:\Dev\Tools\TesterApp\TesterApp\obj\Debug\TesterApp.exe
+C:\Dev\Tools\TesterApp\TesterApp\obj\Debug\TesterApp.pdb
